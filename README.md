@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I’m passionate about **Front-End Development** a
 ## 🔍 About Me  
 
 - 🎓 Master’s student specializing in **AI & Machine Learning**  
-- 🌱 Currently exploring **Entity-Aware Summarization, NER, and Transformer-based models**  
+- 🌱 Upgrading myself and completed exploring **Entity-Aware Summarization, NER, and Transformer-based models**  
 - 💻 Interests: **Front-End Development**, **Deep Learning**, **Multilingual NLP**  
 - 📖 I work on projects involving **Telugu text summarization, NER, and hybrid extractive-abstractive approaches**  
 - ⚡ Fun fact: I enjoy combining **linguistics with deep learning models** to solve real-world problems  
