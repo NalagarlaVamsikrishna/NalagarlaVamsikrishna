@@ -1,15 +1,15 @@
 # 👋 Hi, I’m Nalagarla Vamsikrishna  
 
-Welcome to my GitHub profile! I’m passionate about **Front-End Development** and **AI/ML research**, especially in **Natural Language Processing (NLP) for low-resource languages like Telugu**.  
+Welcome to my GitHub profile! I’m passionate about **Full-stack Developer** and **Front-End Development** and **AI/ML research**, especially in **Natural Language Processing (NLP) for low-resource languages like Telugu**.  
 
 ---
 
 ## 🔍 About Me  
 
-- 🎓 Master’s student specializing in **AI & Machine Learning**  
+- 🎓 Master’s student specializing in **Computer Science**  
 - 🌱 Upgrading myself and completed exploring **Entity-Aware Summarization, NER, and Transformer-based models**  
 - 💻 Interests: **Front-End Development**, **Deep Learning**, **Multilingual NLP**  
-- 📖 I work on projects involving **Telugu text summarization, NER, and hybrid extractive-abstractive approaches**  
+- 📖 I work on projects involving **Telugu text summarization, NER, and hybrid extractive-abstractive approaches, Task Management web application**  
 - ⚡ Fun fact: I enjoy combining **linguistics with deep learning models** to solve real-world problems  
 
 ---
@@ -17,13 +17,13 @@ Welcome to my GitHub profile! I’m passionate about **Front-End Development** a
 ## 🛠️ Skills & Technologies  
 
 **Programming & Development**  
-- Python, Java, JavaScript, TypeScript  
-- HTML, CSS, Angular, React  
+- Java, Python, JavaScript  
+- HTML, CSS, React  
 
 **AI / ML & NLP**  
 - PyTorch, TensorFlow, Hugging Face Transformers  
-- NER (XLM-R, IndicBERT, SpanBERT), Co-reference Resolution  
-- Summarization (mT5, IndicBART, Pegasus)  
+- NER (XLM-R, IndicBERT), Co-reference Resolution  
+- Summarization (mT5, IndicBART)  
 - IndicNLP, SentencePiece, FastText  
 
 **Other Tools**  
@@ -44,7 +44,10 @@ Welcome to my GitHub profile! I’m passionate about **Front-End Development** a
 
 - 🔹 **[Front-End Projects](#)**  
   Web apps built using Angular, React, and modern JavaScript.  
-
+- 🔹 **[LetsDo](#) productivity web app** —
+  Lightweight, fast front-end built with React + Vite.
+  Core features: task management (CRUD), responsive UI, modular components, and client-side state-management.
+  
 ---
 
 ## 📊 GitHub Stats  
@@ -56,8 +59,8 @@ Welcome to my GitHub profile! I’m passionate about **Front-End Development** a
 
 ## 📫 Connect With Me  
 
-- 💼 [LinkedIn](#)  
-- 📧 Email: **your.email@example.com**  
+- 💼 [LinkedIn](https://www.linkedin.com/in/nalagarla-vamsi-krishna-11ba462a2)  
+- 📧 Email: **nalagarlavamsikrishna3@example.com**  
 - 🌐 Portfolio (coming soon!)  
 
 ---
