@@ -1,16 +1,16 @@
 # 👋 Hi, I’m Nalagarla Vamsikrishna  
 
-Welcome to my GitHub profile! I’m passionate about **Full-stack Developer** and **Front-End Development** and **AI/ML research**, especially in **Natural Language Processing (NLP) for low-resource languages like Telugu**.  
+Welcome to my GitHub profile! I’m passionate about **Full-stack Developer** and **Front-End Development** and **AI/ML research**, especially in **Python, NLP**, **Java Developer with Spring Boot**.  
 
 ---
 
 ## 🔍 About Me  
 
 - 🎓 Master’s student specializing in **Computer Science**  
-- 🌱 Upgrading myself and completed exploring **Entity-Aware Summarization, NER, and Transformer-based models**  
-- 💻 Interests: **Front-End Development**, **Deep Learning**, **Multilingual NLP**  
-- 📖 I work on projects involving **Telugu text summarization, NER, and hybrid extractive-abstractive approaches, Task Management web application**  
-- ⚡ Fun fact: I enjoy combining **linguistics with deep learning models** to solve real-world problems  
+- 🌱 Upgrading myself and completed **Modular Commerce Appliction** and exploring **Entity-Aware Summarization, NER, and Transformer-based models**  
+- 💻 Interests: **Backend Development**, **Front-End Development**, **Deep Learning** 
+- 📖 I work on projects involving **E-Commerce web Application**, **Telugu text summarization, NER, and hybrid extractive-abstractive approaches, Task Management web application**  
+- ⚡ Fun fact: I enjoy combining **linguistics with deep learning models** and **full stack development-APIs** to solve real-world problems  
 
 ---
 
@@ -18,7 +18,9 @@ Welcome to my GitHub profile! I’m passionate about **Full-stack Developer** an
 
 **Programming & Development**  
 - Java, Python, JavaScript  
-- HTML, CSS, React  
+- HTML, CSS, React
+- MySQL, JDBC, Hibernate,
+- Sorting Algorithms, BFS, DFS, Sliding Window, Two pointers
 
 **AI / ML & NLP**  
 - PyTorch, TensorFlow, Hugging Face Transformers  
@@ -27,27 +29,28 @@ Welcome to my GitHub profile! I’m passionate about **Full-stack Developer** an
 - IndicNLP, SentencePiece, FastText  
 
 **Other Tools**  
-- Git/GitHub, Google Colab, VS Code, Jupyter Notebook  
+- Git/GitHub, Eclipse, STS, Google Colab, VS Code, Docker 
 
 ---
 
 ## 📂 Featured Projects  
 
-- 🔹 **[Telugu Entity-Aware Summarization](#)**  
-  Hybrid pipeline combining BM25, TextRank, and mT5 with NER + Co-reference resolution.  
-
-- 🔹 **[Telugu NER using XLM-RoBERTa](#)**  
-  BIO-based tagging system for recognizing **Person, Organization, Location, Date/Time, Events**.  
-
-- 🔹 **[Multilingual Summarization (mT5 / IndicBART)](#)**  
-  Fine-tuned models for abstractive summarization of **Telugu news articles**.  
-
+- 🔹 **[SalesSavvy Modular E-Commerce Platform](#https://github.com/NalagarlaVamsikrishna/SalesSavvy_App).** -
+  Secured  role-based access control, exposes clean, scalable RESTful APIs, configured with MySQL integration.
+  
 - 🔹 **[Front-End Projects](#)**  
   Web apps built using Angular, React, and modern JavaScript.  
-- 🔹 **[LetsDo](#) productivity web app** —
+- 🔹 **[LetsDo](#https://github.com/NalagarlaVamsikrishna/letsDo) productivity web app** —
   Lightweight, fast front-end built with React + Vite.
   Core features: task management (CRUD), responsive UI, modular components, and client-side state-management.
-  
+
+- 🔹 **[Telugu Entity-Aware Summarization](#https://github.com/NalagarlaVamsikrishna/NER-Aware-Telugu-Summarization)**  
+  Hybrid pipeline combining BM25, TextRank, and mT5 with NER + Co-reference resolution.  
+- 🔹 **[Telugu NER using XLM-RoBERTa](#)**  
+  BIO-based tagging system for recognizing **Person, Organization, Location, Date/Time, Events**.  
+- 🔹 **[Multilingual Summarization (mT5 / IndicBART)](#https://github.com/NalagarlaVamsikrishna/NER-Aware-Telugu-Summarization)**  
+  Fine-tuned models for abstractive summarization of **Telugu news articles**.  
+
 ---
 
 ## 📊 GitHub Stats  
@@ -59,8 +62,8 @@ Welcome to my GitHub profile! I’m passionate about **Full-stack Developer** an
 
 ## 📫 Connect With Me  
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/nalagarla-vamsi-krishna-11ba462a2)  
-- 📧 Email: **nalagarlavamsikrishna3@example.com**  
+- 💼 [LinkedIn](#https://www.linkedin.com/in/nalagarla-vamsi-krishna-11ba462a2)  
+- 📧 Email: **nalagarlavamsikrishna3@gmail.com**  
 - 🌐 Portfolio (coming soon!)  
 
 ---
