@@ -35,20 +35,20 @@ Welcome to my GitHub profile! I’m passionate about **Full-stack Developer** an
 
 ## 📂 Featured Projects  
 
-- 🔹 **[SalesSavvy Modular E-Commerce Platform](#https://github.com/NalagarlaVamsikrishna/SalesSavvy_App).** -
+- 🔹 **[SalesSavvy Modular E-Commerce Platform](https://github.com/NalagarlaVamsikrishna/SalesSavvy_App).** -
   Secured  role-based access control, exposes clean, scalable RESTful APIs, configured with MySQL integration.
   
 - 🔹 **[Front-End Projects](#)**  
   Web apps built using Angular, React, and modern JavaScript.  
-- 🔹 **[LetsDo](#https://github.com/NalagarlaVamsikrishna/letsDo) productivity web app** —
+- 🔹 **[LetsDo](https://github.com/NalagarlaVamsikrishna/letsDo) productivity web app** —
   Lightweight, fast front-end built with React + Vite.
   Core features: task management (CRUD), responsive UI, modular components, and client-side state-management.
 
-- 🔹 **[Telugu Entity-Aware Summarization](#https://github.com/NalagarlaVamsikrishna/NER-Aware-Telugu-Summarization)**  
+- 🔹 **[Telugu Entity-Aware Summarization](https://github.com/NalagarlaVamsikrishna/NER-Aware-Telugu-Summarization)**  
   Hybrid pipeline combining BM25, TextRank, and mT5 with NER + Co-reference resolution.  
 - 🔹 **[Telugu NER using XLM-RoBERTa](#)**  
   BIO-based tagging system for recognizing **Person, Organization, Location, Date/Time, Events**.  
-- 🔹 **[Multilingual Summarization (mT5 / IndicBART)](#https://github.com/NalagarlaVamsikrishna/NER-Aware-Telugu-Summarization)**  
+- 🔹 **[Multilingual Summarization (mT5 / IndicBART)](https://github.com/NalagarlaVamsikrishna/NER-Aware-Telugu-Summarization)**  
   Fine-tuned models for abstractive summarization of **Telugu news articles**.  
 
 ---
@@ -62,7 +62,7 @@ Welcome to my GitHub profile! I’m passionate about **Full-stack Developer** an
 
 ## 📫 Connect With Me  
 
-- 💼 [LinkedIn](#https://www.linkedin.com/in/nalagarla-vamsi-krishna-11ba462a2)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/nalagarla-vamsi-krishna-11ba462a2)  
 - 📧 Email: **nalagarlavamsikrishna3@gmail.com**  
 - 🌐 Portfolio (coming soon!)  
 
